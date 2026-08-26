@@ -2,10 +2,11 @@
 
 Recovered notebooks from legacy AML workspace storage.
 
-Source: `amlws001storage` (share `code-391ff5ac-6576-460f-ba4d-7e03433c68b6` / blob container `code-391ff5ac-6576-460f-ba4d-7e03433c68b6`), path `Users/niswitan/ai-responses/`.
+Path in each workspace: `Users/niswitan/ai-responses/`.
 
-- files pulled from file share: 5
-- files pulled from blob:       0
-- total .ipynb in tree:         5
+- **amlws001storage**: file share = 5, blob = 0
+- **amlwswestus2008241948924**: file share = 14, blob = 0
+
+Total .ipynb in tree: 24
 
 See MANIFEST.tsv for the file list with sizes.
