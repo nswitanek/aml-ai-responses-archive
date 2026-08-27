@@ -1,24 +1,50 @@
-amlws001storage/collect responses - openai chatgpt - final.ipynb	120083
-amlws001storage/collect responses.ipynb	29797
-amlws001storage/load prompts test.ipynb	7798
-amlws001storage/predict attribute inference automl.ipynb	93314
-amlws001storage/response analytics - wave 3 texts - v20231020.ipynb	194111
-amlwswestus2008241948924/0 setup.ipynb	3019
-amlwswestus2008241948924/assess question formatting.ipynb	45959
-amlwswestus2008241948924/babel setup.ipynb	8504
-amlwswestus2008241948924/collect responses - babel.ipynb	7203
-amlwswestus2008241948924/collect responses - huggingface fb opt 1.3 - final.ipynb	162379
-amlwswestus2008241948924/collect responses - huggingface fb opt iml 1.3 - final.ipynb	56150
-amlwswestus2008241948924/collect responses - huggingface fb opt.ipynb	52095
-amlwswestus2008241948924/collect responses - huggingface gpt2-xl - final.ipynb	200269
-amlwswestus2008241948924/collect responses - openai - final.ipynb	91236
-amlwswestus2008241948924/collect responses - openai api.ipynb	24953
-amlwswestus2008241948924/collect responses - openai chatgpt - final.ipynb	955369
-amlwswestus2008241948924/collect responses - openai chatgpt - llmclient.ipynb	98950
-amlwswestus2008241948924/collect responses - openai gpt4 - final.ipynb	498495
-amlwswestus2008241948924/load prompts test.ipynb	15260
-collect responses - openai chatgpt - final.ipynb	120083
-collect responses.ipynb	29797
-load prompts test.ipynb	7798
-predict attribute inference automl.ipynb	93314
-response analytics - wave 3 texts - v20231020.ipynb	194111
+ai-responses/amlws001storage/collect responses - openai chatgpt - final.ipynb	120083
+ai-responses/amlws001storage/collect responses.ipynb	29797
+ai-responses/amlws001storage/load prompts test.ipynb	7798
+ai-responses/amlws001storage/predict attribute inference automl.ipynb	93314
+ai-responses/amlws001storage/response analytics - wave 3 texts - v20231020.ipynb	194111
+ai-responses/amlwswestus2008241948924/0 setup.ipynb	3019
+ai-responses/amlwswestus2008241948924/assess question formatting.ipynb	45959
+ai-responses/amlwswestus2008241948924/babel setup.ipynb	8504
+ai-responses/amlwswestus2008241948924/collect responses - babel.ipynb	7203
+ai-responses/amlwswestus2008241948924/collect responses - huggingface fb opt 1.3 - final.ipynb	162379
+ai-responses/amlwswestus2008241948924/collect responses - huggingface fb opt iml 1.3 - final.ipynb	56150
+ai-responses/amlwswestus2008241948924/collect responses - huggingface fb opt.ipynb	52095
+ai-responses/amlwswestus2008241948924/collect responses - huggingface gpt2-xl - final.ipynb	200269
+ai-responses/amlwswestus2008241948924/collect responses - openai - final.ipynb	91236
+ai-responses/amlwswestus2008241948924/collect responses - openai api.ipynb	24953
+ai-responses/amlwswestus2008241948924/collect responses - openai chatgpt - final.ipynb	955369
+ai-responses/amlwswestus2008241948924/collect responses - openai chatgpt - llmclient.ipynb	98950
+ai-responses/amlwswestus2008241948924/collect responses - openai gpt4 - final.ipynb	498495
+ai-responses/amlwswestus2008241948924/load prompts test.ipynb	15260
+ai-responses/collect responses - openai chatgpt - final.ipynb	120083
+ai-responses/collect responses.ipynb	29797
+ai-responses/load prompts test.ipynb	7798
+ai-responses/predict attribute inference automl.ipynb	93314
+ai-responses/response analytics - wave 3 texts - v20231020.ipynb	194111
+engage/amlws001storage/ae/create_mltable_of_lcs_data.ipynb	9578
+engage/amlws001storage/cn/ai-doc-intel.ipynb	47512
+engage/amlws001storage/cx/OAI_MTC_SJ_SDK_Davinci_0413.ipynb	192580
+engage/amlws001storage/cx/scratch.ipynb	3771191
+engage/amlws001storage/ro/consume-mistral.ipynb	30121
+engage/amlws001storage/ro/consume-openai.ipynb	141620
+engage/amlws001storage/ro/zero-shot-classification-online-endpoint-ns-edits.ipynb	37499
+engage/amlws001storage/sh/automl-nlp-text-classification-multiclass-task-sentiment-analysis-ns-edits/automl-nlp-multiclass-sentiment-mlflow.ipynb	28312
+engage/amlws001storage/sh/automl-nlp-text-classification-multiclass-task-sentiment-analysis-ns-edits/automl-nlp-multiclass-sentiment.ipynb	16339
+engage/amlws001storage/sh/automl-nlp-text-classification-multiclass-task-sentiment-analysis-ns-edits/mlflow-model-local-inference-test.ipynb	4939
+engage/amlws001storage/sh/automl-text-classification.ipynb	2309
+engage/amlws001storage/sh/consume-mistral.ipynb	30121
+engage/amlws001storage/sh/zero-shot-classification-online-endpoint-ns-edits-copy.ipynb	43682
+engage/amlws001storage/sh/zero-shot-classification-online-endpoint-ns-edits.ipynb	43206
+engage/amlws001storage/sm/text data.ipynb	606
+engage/amlws001storage/tc/scratch.ipynb	16395
+engage/amlws001storage/wk/utd/answer_synthesis.ipynb	1722
+engage/amlws001storage/wk/utd/passage_retrieval.ipynb	80563
+engage/amlws001storage/wk/utd/populate_content_model_kpp.ipynb	606
+engage/amlws001storage/wk/utd/query_expansion.ipynb	1694
+engage/amlws001storage/wm/hr-copilot/.env.ipynb	606
+engage/amlws001storage/wm/hr-copilot/0-setup.ipynb	1379
+engage/amlws001storage/wm/hr-copilot/function-calling.ipynb	27002
+engage/amlws001storage/wm/hr-copilot/metrics.ipynb	3480
+engage/amlws001storage/wm/hr-copilot/working_with_functions.ipynb	44380
+engage/amlws001storage/wm/jtbd - demand.ipynb	164944
